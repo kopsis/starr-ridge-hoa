@@ -33,6 +33,7 @@ logo: assets/starr_ridge_sign.jpg
 header_pages:
   - about.markdown
   - faq.markdown
+  - search.markdown
 
 # Build settings
 theme: minima
