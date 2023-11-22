@@ -5,9 +5,10 @@
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
     {% if site.logo %}
-    <img src="{{ site.logo | relative_url }}" alt="Starr Ridge Logo" width="256" class="logo-image">
-    {% endif %}
-    {{ site.title | escape }}</a>
+    <img src="{{ site.logo | relative_url }}" alt="Starr Ridge News" width="256" class="logo-image">
+    {% else %}
+    {{ site.title | escape }}
+    {% endif %}</a>
 
     {%- if page_paths -%}
       <nav class="site-nav">

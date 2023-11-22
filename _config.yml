@@ -28,7 +28,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   a fantastic place to live.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-logo: assets/tucson-pano.jpg
+logo: assets/starr_ridge_sign.jpg
 
 # Build settings
 theme: minima
