@@ -12,9 +12,14 @@ layout: default
   <script type="text/javascript">
   function searchURL(){
     var query = document.getElementById("searchtxt").value;
-    window.location = "https://duckduckgo.com/html/?q=" + query + " site:starrridgehoa.org";
+    window.location = "https://duckduckgo.com/html/?q=" + encodeURIComponent(query) + "%20site:starrridgehoa.org";
+  }
+  function clickPress(event){
+    if (event.key == "Enter"){
+        searchURL();
+    }
   }
   </script>
-  <p class=""><input name="searchtxt" type="text" maxlength="512" id="searchtxt" class="searchfield"/><button class="searchbtn" onclick="searchURL()">Search</button></p>
+  <p class=""><input name="searchtxt" type="text" maxlength="512" id="searchtxt" class="searchfield" onkeypress="clickPress(event)"/><button class="searchbtn" onclick="searchURL()">Search</button></p>
 
 </div>
