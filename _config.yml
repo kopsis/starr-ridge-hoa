@@ -30,10 +30,15 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 logo: assets/starr_ridge_sign.jpg
 
+header_pages:
+  - about.markdown
+  - faq.markdown
+
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-email-protect
 
 # Exclude from processing.
 # The following items will not be processed, by default.
