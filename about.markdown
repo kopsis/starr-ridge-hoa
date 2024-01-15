@@ -16,11 +16,6 @@ Please visit the [Mission Management Starr Ridge HOA Page][mm-hoa] for account s
 
 ## Other useful information
 
-### Governance
-
-* [Homeowners Association Bylaws](../assets/documents/hoa_bylaws.pdf)
-* [Codes, Covenants, and Restrictions](../assets/documents/combined_ccrs.pdf)
-
 ### Location
 
 * [Show in Open Street Map][osm-location-link]
