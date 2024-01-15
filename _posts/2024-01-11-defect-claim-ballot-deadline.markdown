@@ -2,7 +2,7 @@
 layout: post
 title:  "Defect Claim Ballot Deadline Extension"
 date:   2024-01-11 05:54:27 -0700
-categories: defect-claim
+categories: notice
 ---
 The deadline for the latest defect claim vote is approaching. If you have not voted, please take this opportunity to voice your opinion. Note that this vote is to add Herder & Herder and Starr Ridge, LLC to the legal action. This is *not* a vote for/against the legal action itself (that was approved in a previous homeowner vote). If you have any questions, please see the [Frequently Asked Questions](https://umanage.eunify.net/ShowDocument.aspx?S3FileRequest=WI2BSP4k059CJGXsLCdcKUZloNLN8ATB%252bZoUSFTmighETPq9wlpbZRdrJSG0RbOuB63baWFbO45pPabco5ELwb2BmV1%252bOZSal6LhiRtskZIUWZSNcLUs%252bGMtu%252b%252fr427MZXYKM7MXjG3jX2YitV7FhvbWQKzO7hPHgXyqgYK6lv95D8WGdfjn3wM9TiY%252b%252fxH9pr0%252bZmAY%252bMhMaosXPciemMKYuPlQo3tYNEisiTrrS7cmqq8EXG5uazcKKWD4XRVzP%252b2HwUqVWolZwBf%252fC6F63fNSFfYgamYoeWgH24URv0I0AAdF5wTo6ii9BHazV%252fhn9Y9Ulf31yTYYtZUHvdDvdEgwLAe3FQl8QYAlsNRmKUPg9zL%252fAmaG6ElOKQP2lrlsn4yPmVZZ0Cvc%252fRk96Jsicm8R%252flZ1kTZmbjpZ8LOQliJREKjZgCU8HqH%252fY567%252bDWWxm%252faA3e7aLu1qwN4FlfHGFjQeHktXccWrmKJjdYJpBOR99mLYSP2RZHPsI%252f46m2EvDdKrgLqzZ7noa50MX4L5QxyyghyzIxDvtpPViswQ6ROYOA5Zc837r50g13SlzaxplM12hSE89nruqBs0SqDN2LdwHBvdKM%252f%252f%252fKQABGcS2%252bB6HyNZlaw8IoxIEao0CIknzNkWyvx389QTC3bvPQEaADF4qQS8EOuVqH3REr7Xj2iv4FUCL6oKZNAMQCRY4oFZOyhxHsSjcQCr6H4nQLzZdSMjl%252fnQVP83wLfmxZHINpr%252fhTwELVBu262YoSsJaYb3g%252f7mo%252b4dRjfx5CNfOaKjQNY2w2eAHVl6MlDyL7SZTykzsmYrCPOuH2gnRGwD8lb). If your question is not covered, contact our attorney [Darrien Shuquem](mailto:{{ darrien.shuquem@vf-law.com | encode_email }}) or the board through Mission Management. 
 
