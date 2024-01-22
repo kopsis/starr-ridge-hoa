@@ -1,0 +1,25 @@
+backend:
+  name: github
+  repo: kopsis/starr-ridge-hoa # Path to your GitHub repository
+  # optional, defaults to master
+  branch: main
+
+# This line should *not* be indented
+publish_mode: editorial_workflow
+
+# This line should *not* be indented
+media_folder: "assets/uploads" # Media files will be stored in the repo under images/uploads
+
+collections:
+  - name: "news" # Used in routes, e.g., /admin/collections/blog
+    label: "News" # Used in the UI
+    folder: "_posts/news" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    extension: "markdown"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Categories", name: "categories", widget: "string", default: "news"}
+      - {label: "Body", name: "body", widget: "markdown"}
