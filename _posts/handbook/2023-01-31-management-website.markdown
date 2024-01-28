@@ -7,14 +7,14 @@ date:   2023-01-31 08:00:00 -0700
 categories: handbook
 ---
 Mission Management (the management company hired by the Starr Ridge HOA)
-provides a website that is access restricted to only registered homeowners.
-That website is used for your personal property and payment portal, as well as
+provides a web portal that is access restricted to only registered homeowners.
+That portal is used for your personal property and dues payments, as well as
 information that is best kept within the community. Such information includes
 legal stuff like Bylaws and CC&Rs, financial information, request forms, etc.
 
-For simplicity, we'll refer the the management company's website as *eUnify*.
+For simplicity, we'll refer to the management company's portal as *eUnify*.
 The same software is used for all the communities they manage. The Board has no
-control over the eUnify website. In many cases, even the management company can
+control over the eUnify portal. In many cases, even the management company can
 do little more than submit a support request to the IT team that actually runs
 the site. If you have problems or need technical assistance, first check the
 [eUnify Knowledge Base](https://eunifyportal.freshdesk.com/support/solutions).
@@ -26,18 +26,24 @@ limited.
 
 There is a mobile app called *Community Link* that should provide most of the
 same features as the website. It can be downloaded from the Apple or Google
-Play app stores. You can also access the regular website through the browser on
+Play app stores. You can also access the regular portal through the browser on
 your mobile device, but the app may be better suited to the small screen.
 
 For the sake of keeping these "already too-long" instructions from getting
-even longer, we will only cover the website. If you would really like to see
+even longer, we will only cover browser access. If you would really like to see
 instructions for the mobile app, let us know.
 
 ### Registration
 
-Before you can access eUnify, you will need to register for access. Go to
-the [Starr Ridge eUnify Page][str-eunify] and you'll see a "login" form. Click the
-*Initial Login* link at the bottom of the form.
+Before you can access eUnify, you will need to register for access. And before
+you can do that, you need to have your email address "on-file" with Mission
+Management. If you are unsure that Mission Management has the email you want to
+use, contact them using the information on your most recent dues invoice
+letter and they'll be happy to check/change it for you.
+
+To complete your eUnify registration, go to the [Starr Ridge eUnify
+Page][str-eunify] and you'll see a "login" form. Click the *Initial Login* link
+at the bottom of the form.
 
 ![Login Page](/assets/eunify/str_eunify_01.png)
 
@@ -47,21 +53,18 @@ You will be presented with the following page.
 
 Your *Account Number* can be found on your most recent Starr Ridge quarterly
 fee invoice. Your name or address should also match what's shown on your
-invoice. Make sure to use a current/valid email address since your login info
-will be sent to that address. The management company will only use this address
-for emails related to your account and email "blasts" authorized by the Board
-of Directors. You should not get other unsolicited emails from the management
-company (if that happens, let the Board know).
+invoice. Make sure to use the email address you already have "on file" with
+Mission Management. If eUnify doesn't find your email address in the system, it
+won't be able to complete your registration.
 
 Complete all the form fields and click the green *Get Initial Login Info*
-button. The management company will review your information and send login
-details to the email address you specified in the form. Allow at least one
-business day for this process.
+button. The system will send login details to your registered email address.
 
-Note that the email will likely come from *eunify@missionmanagement.biz*. Many
-email systems (including GMail) tend to think these emails are "spam". If you
-haven't seen your login email after a couple of business days, be sure to check
-your "spam" folder.
+Note that the email will likely come from *eunify@missionmanagement.biz*. Some
+email systems (including GMail) think these emails are "spam". If you haven't
+seen your login email after a short time, be sure to check your "spam" folder.
+Note that if you add this email address to your addressbook, it will usually
+prevent messages from being incorrectly marked as "spam".
 
 Once you have your initial login information, enter it on the [Starr Ridge
 eUnify Page][str-eunify] login form, click the *Remember Me* checkbox, then
@@ -70,14 +73,14 @@ click the *Login Now* button.
 You should be asked to change your password (sorry, we don't have a copy of
 that screen). Simply follow the instructions on the page. Chose a strong
 password and write it down so you don't loose it. By the time you need to
-login again, it is very easy to foget the password you chose.
+login again, it is very easy to forget the password you chose.
 
 ### Home Page
 
 With the registration and login dance behind you, the system will show you
 something similar to the following screen. It may look a little different in
 different web browsers (particularly if you're on a smartphone). Also, some
-of the menu items are restricted to members of the Board or Committies -- don't
+of the menu items are restricted to members of the Board or Committees -- don't
 be concerned if you don't see them.
 
 ![Screenshot of Main Page](/assets/eunify/str_eunify_03.png)
@@ -91,7 +94,7 @@ this page) and you'll see the *Announcements* section.
 
 ![Screenshot of Main Page - scrolled](/assets/eunify/str_eunify_04.png)
 
-We haven't been very consistent about using the Announcments feature, and
+We haven't been very consistent about using the Announcements feature, and
 the new site (the one you're reading now) might make it redundant. Feel free
 to let the Board know which site you'd rather use to see announcements.
 
@@ -103,7 +106,7 @@ the red sidebar menu and you'll see something similar to the following:
 
 ![Documents Page](/assets/eunify/str_eunify_06.png)
 
-Documents are organized into folders. To see the foler list, click the
+Documents are organized into folders. To see the folder list, click the
 "+" next to the *Main* folder (called out in the picture above). The folder
 list will expand as follows:
 
